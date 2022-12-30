@@ -22,5 +22,6 @@ Must Have Python Installed
   ./main.py
 ```
 
-Tutorial On [YouTube](https://youtu.be/A5sAc1SclWg).__
+Tutorial On [YouTube](https://youtu.be/A5sAc1SclWg).
+<br/>
 Supports On [Discord](https://discord.gg/RkkUmPcpsK).
