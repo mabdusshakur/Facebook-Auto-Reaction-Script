@@ -21,3 +21,6 @@ Must Have Python Installed
 ```bash
   ./main.py
 ```
+
+Tutorial [YouTube](https://youtu.be/A5sAc1SclWg).
+Supports [Discord](https://discord.gg/RkkUmPcpsK).
