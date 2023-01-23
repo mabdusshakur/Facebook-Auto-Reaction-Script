@@ -16,10 +16,10 @@ Its a simple script based on python , for auto Reaction in Facebook Post on Web 
 Must Have Python Installed
 
 ```bash
-  pip install pyautogui
+ pip install pyautogui
 ```
 ```bash
-  ./main.py
+ ./main.py
 ```
 
 Tutorial On [YouTube](https://youtu.be/A5sAc1SclWg).
